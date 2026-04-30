@@ -1,10 +1,9 @@
 # Hi there, I'm Steve! 👋
 
 ## About Me
-- 🌱 I’m currently learning Azure AI - specifically Copilot!
+- 🌱 I’m currently working with Azure AI - specifically Copilot!
 - 👯 I’m looking to collaborate on AI-related POCs
-- 🤔 I’m looking for help with Terraform (TFC)
-- 💬 Ask me about anything!
+- 💬 Let's connect!
 - 📫 How to reach me: smoke signals and/or flare gun
 - ⚡ Fun fact: Victor Hugo’s novel Les Miserables contains a sentence that is 823 words long 
 
